@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Propinapp</string>
+    <string name="costo_del_servicio">Service Cost</string>
+    <string name="pregunta_servicio">How was the service?</string>
+    <string name="genial">Great! (15%)</string>
+    <string name="bueno">Good (10%)</string>
+    <string name="justito">Normal (5%)</string>
+    <string name="maleta">Maleta (0%)</string>
+    <string name="calcular">CALCULATE</string>
+    <string name="propina">Tip: %s</string>
+    <string name="rendondear_propina">Round Tip?</string>
+</resources>
