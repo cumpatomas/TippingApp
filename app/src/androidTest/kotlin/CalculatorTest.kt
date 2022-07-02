@@ -22,6 +22,7 @@ class CalculatorTests {
     val activity = ActivityScenarioRule(MainActivity::class.java)
     @Test
     fun calculate_15_percent_tip(){
+        
         onView(withId(R.id.cost_of_service_edit_text))
             .perform(typeText("50.00"))
             .perform(ViewActions.closeSoftKeyboard())
