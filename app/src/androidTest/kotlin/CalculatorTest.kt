@@ -33,5 +33,6 @@ class CalculatorTests {
         onView(withId(R.id.resultado))
             .check(matches(withText(containsString("$7.50"))))
 
+        
     }
 }
